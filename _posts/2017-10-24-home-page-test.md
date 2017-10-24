@@ -1,12 +1,11 @@
 ---
 layout: post
-title: home
+title: Inauguration du blog
 ---
 
-# Inauguration du blog
 Ce site est destiné à servir de vitrine au club de robotique de l'ENSTA Bretagne ainsi que de site de documentation pour les étudiants. 
 
-__Ajouts :__
+**Ajouts :**
 
 ## Liens utiles pour la robotique
 Liste des liens les plus intéressants menant vers des packages ROS ou des outils pour la robotique
