@@ -1,8 +1,3 @@
----
-title: Test
-layout: default
----
-
 ## Liens utiles pour la robotique
 Liste des liens les plus intéressants menant vers des packages ROS ou des outils pour la robotique
 
