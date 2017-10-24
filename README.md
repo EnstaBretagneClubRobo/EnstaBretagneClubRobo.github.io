@@ -1,11 +1,6 @@
-## Liens utiles pour la robotique
-Liste des liens les plus intéressants menant vers des packages ROS ou des outils pour la robotique
+## Site du club robotique de l'ENSTA Bretagne
 
-Chacunes des pages aborde un thème différent : 
- - [Liste des middlewares pour la robotique](https://enstabretagneclubrobo.github.io/docs/middlewareRobotique)
- - [Packages ROS](https://enstabretagneclubrobo.github.io/docs/packagesRos)
- - [Outils externes](https://enstabretagneclubrobo.github.io/docs/logicielsExternes)
- - [Repository Etudiants](https://enstabretagneclubrobo.github.io/docs/repositoryEtudiantsENSTA)
+Ce site utilise le thème Lanyon de Jekyll. 
 
-### Support or Contact
-Check https://github.com/EnstaBretagneClubRobo/EnstaBretagneClubRobo.github.io
+N'hésitez pas à proposer des ajouts ou modifications.
+TODO : Un moyen simple de faire une arborescence dans la sidebar
