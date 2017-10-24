@@ -1,4 +1,4 @@
-# registre ros
+# Liste des packages ROS utiles
 Liste des repository les plus intéressants contenant du code ou des packages ROS méconnus
 
  - https://github.com/swri-robotics/mapviz
