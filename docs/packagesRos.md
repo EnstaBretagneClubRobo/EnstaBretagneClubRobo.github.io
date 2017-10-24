@@ -1,3 +1,8 @@
+---
+layout: page
+title: Liste des packages ROS utiles
+---
+
 # Liste des packages ROS utiles
 Liste des repository les plus intéressants contenant du code ou des packages ROS méconnus
 
