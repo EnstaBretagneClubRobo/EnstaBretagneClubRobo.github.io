@@ -23,6 +23,7 @@
         {% if node.layout == "page" %}
           {% assign level_sentence = node.url | replace_regex: '\/', ' ' %}
           {% assign level = level_sentence | number_of_words %}
+          {{level | inspect}}
           {% if level > 2 %}
             <a class="sidebar-nav-item-1{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% else %}
