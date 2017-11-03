@@ -22,7 +22,7 @@
       {% if node.title != null %}
         {% if node.layout == "page" %}
           {{node.url}}
-          {% assign level_tab = node.url | split: "/" %}
+          {% assign level_tab = node.url | split: "\/" %}
           {{level_tab}}
           {% assign level = level_tab | size %}
           {{level}}
