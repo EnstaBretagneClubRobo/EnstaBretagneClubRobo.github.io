@@ -199,7 +199,7 @@ a.sidebar-nav-item:focus {
 a.sidebar-nav-item-1:hover,
 a.sidebar-nav-item-1:focus {
   text-decoration: none;
-  background-color: rgba(255,255,255,.1);
+  background-color: rgba(255,255,255,.2);
   border-color: transparent;
 }
 
