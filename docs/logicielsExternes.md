@@ -1,4 +1,7 @@
-# Logiciels externes
+---
+layout : page
+title: Logiciels externes
+---
 
  - Kinect Fusion : https://msdn.microsoft.com/en-us/library/dn188670.aspx
  
