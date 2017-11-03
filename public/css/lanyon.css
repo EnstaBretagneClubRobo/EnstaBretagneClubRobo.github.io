@@ -193,6 +193,7 @@ a.sidebar-nav-item:focus {
   display: block;
   padding: 0rem 0rem;
   border-top: 1px solid rgba(255,55,255,.1);
+  background-color: rgba(155,155,155,.1);
 }
 .sidebar-nav-item-1.active,
 a.sidebar-nav-item-1:hover,
