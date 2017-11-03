@@ -22,11 +22,12 @@
       {% if node.title != null %}
         {% if node.layout == "page" %}
           {{node.url}}
-          {% assign level_tab = node.url | split: "\/" %}
+          {% assign level_tab = node.url | split: "/" %}
           {{level_tab}}
+          {{level_tab | size}}
           {% assign level = level_tab | size %}
           {{level}}
-          {% if level > 2 %}
+          {% if level > 3 %}
             <a class="sidebar-nav-item-1{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% else %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
