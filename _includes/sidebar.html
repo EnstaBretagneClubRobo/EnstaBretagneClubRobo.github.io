@@ -21,6 +21,7 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
+          {{node.url}}
           {% assign level_sentence = node.url | replace_regex: '\/', ' ' %}
           {{level_sentence}}
           {% assign level = level_sentence | number_of_words %}
