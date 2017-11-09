@@ -3,11 +3,9 @@ layout : page
 title: Repository etudiants ENSTA
 ---
 
-BUBBLE (le bateau en mousse)
- - https://github.com/ENSTA-Bretagne-Guerledan-BoiteNoire/ROS_BUBBLE_Project
- 
-Le projet Cordelière de la promotion ROB 2018
- - https://github.com/EnstaBretagneClubRobo/Cordeliere
- 
-Le projet Shepherd de la promotion ROB 2017
- - https://github.com/ENSTA-Bretagne-Shepherd/Shepherd-Ros-Structure
+Liste des repository github des étudiants de l'ENSTA Bretagne.
+
+[Packages ROS](https://enstabretagneclubrobo.github.io/docs/repositoryEtudiantsENSTA/PackagesROS)
+
+[Autres](https://enstabretagneclubrobo.github.io/docs/repositoryEtudiantsENSTA/Autres)
+

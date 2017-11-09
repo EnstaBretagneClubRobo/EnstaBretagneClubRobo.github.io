@@ -191,7 +191,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item-1 {
   display: block;
-  padding: 0rem 0rem;
+  padding: 0rem 2rem;
   border-top: 1px solid rgba(255,255,255,0);
   background-color: rgba(150,150,150,.1);
 }
